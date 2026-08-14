@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://erdenebatbataa.github.io/al-folio/sitemap.xml
+Sitemap: https://erdenebatbataa.github.io/sitemap.xml
