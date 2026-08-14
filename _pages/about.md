@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Applied econometrics · Macro and monetary economics · <a href='https://www.muls.edu.mn'>Mongolian University of Life Sciences</a>
 
 profile:
   align: right
