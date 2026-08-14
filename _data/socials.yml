@@ -12,3 +12,9 @@ custom_social: # can be any name here other than the ones already defined in the
   logo: hhttps://ideas.repec.org/favicon.ico # can be png, svg, jpg
   title: IDEAS/RePEc
   url: https://ideas.repec.org/f/pba666.html
+  logo: https://www.youtube.com/favicon.ico
+  title: YouTube
+  url: https://www.youtube.com/c/Erdenebat
+  logo: https://www.linkedin.com/favicon.ico
+  title: LinkedIn
+  url: https://www.linkedin.com/in/erdenebat-bataa/
