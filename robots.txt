@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://erdenebatbataa.github.io/sitemap.xml
+Sitemap: https://se7enz91.github.io/erdenebatbataa.github.io/sitemap.xml
