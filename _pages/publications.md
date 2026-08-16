@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /publications/
+title: publications
+description: Peer-reviewed articles, working papers, textbook, thesis and reports.
+nav: true
+nav_order: 2
+---
 Peer-reviewed journal articles
 
 12. D. Lkhagvasuren & E. Bataa. 2023. Finite-state Markov chains with flexible distributions. Computational Economics 61, 611–644
