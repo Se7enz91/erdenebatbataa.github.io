@@ -1,65 +1,23 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: work in progress
+permalink: /Work in Progress (хийгдэж байгаа ажлууд):/
+description: ""
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+1. E. Bataa. Breaks in the variability and comovement of commodity prices.
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+2. E. Bataa. Greater Tumen Initiative countries' business cycle affiliation [[ppt](https://www.dropbox.com/s/cz6fz6hb0cqql15/Niigata.pdf?dl=0)], [preleminary version](https://www.dropbox.com/s/991ekt42lekxgny/Bataa14.pdf?dl=0)
 
-{% else %}
+3. E. Bataa & S. Batbekh, Climate change and global inflation seasonality, [preliminary version](https://www.dropbox.com/s/e8cpb4p61nky125/Seasonality2019Jun2.pdf?dl=0), [ppt](https://www.dropbox.com/s/imfv5v3fsze7c9x/seasonality_presentation.pdf?dl=0)
 
-<!-- Display projects without categories -->
+4. S. Batbekh & E. Bataa, Gendered visibility of Mongolian economists
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+5. Б. Эрдэнэбат, [Эдийн засгийн монгол доктор гэж хэн бэ?](https://www.researchgate.net/publication/344562748_Edijn_zasgijn_mongol_doktor_gez_hen_be) (Who is the Mongolian economics doctorate holder?), [YouTube](https://www.youtube.com/watch?v=ytd742DKXGk&t=2702s)
 
-  <!-- Generate cards for each project -->
+Монголтой холбоотой сонирхолтой статистикууд:
 
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+[Дуурайлгах R код](https://www.dropbox.com/s/qnx5t225mc2pshq/debt.R?dl=0) (Эхний зураг дахь нэн өндөр өртэй улсуудын нэрийг Paint дээр оруулсан)
