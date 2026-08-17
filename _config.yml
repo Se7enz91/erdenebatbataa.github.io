@@ -209,6 +209,7 @@ collections:
     output: true
   teachings:
     output: true
+    permalink: /teaching/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
