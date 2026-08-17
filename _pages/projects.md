@@ -20,4 +20,8 @@ horizontal: false
 
 Монголтой холбоотой сонирхолтой статистикууд:
 
-[Дуурайлгах R код](https://www.dropbox.com/s/qnx5t225mc2pshq/debt.R?dl=0) (Эхний зураг дахь нэн өндөр өртэй улсуудын нэрийг Paint дээр оруулсан)
+{% include figure.liquid path="assets/img/unnamed1.png" title="Гадаад өрийн үлдэгдэл, 1970-2019" class="img-fluid rounded z-depth-1" %}
+
+{% include figure.liquid path="assets/img/unnamed2.png" title="" class="img-fluid rounded z-depth-1" %}
+
+[Дуурайлгах R код](https://www.dropbox.com/s/qnx5t225mc2pshq/debt.R?dl=0) (Эхний зурагт нэн өндөр өртэй улсуудын нэрийг Paint дээр оруулсан)
