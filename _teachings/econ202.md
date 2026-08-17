@@ -23,8 +23,6 @@ description: Эконометрикийн үндсэн ойлголт, регр�
 Ашиглах үндсэн сурах бичиг: [Introductory Econometrics: A Modern Approach, Jeffrey M. Wooldridge](https://www.cengageasia.com/TitleDetails/isbn/9781337558860)
 
 Суурь муу санагдвал Д. Бямбажав. [Магадлалын онол, математик статистик](https://archive.org/details/byambajavtheoryofprobability/page/n1/mode/2up), [10 жилд үзсэн хичээлүүд](http://1212.mn/BookLibraryDownload.ashx?url=EBS-Last_201806251045.pdf&ln=Mn)-ээ эхлээд уншаарай.
-
-[Статистикийн хүснэгтүүд](https://www.dropbox.com/s/p5vafjhk0rg2tjf/tables.pdf?dl=0)
 | # | төрөл | оноо |
 |:--|:--|:--|
 | 1 | санамсаргүй шалгалт (тоо, хугацаа нь тодорхой бус) | цуцласан |
@@ -35,6 +33,8 @@ description: Эконометрикийн үндсэн ойлголт, регр�
 | 6 | семинар идэвхи | 10 |
 | 7 | Өгөгдөл цуглуулах бие даалт, 2 ширхэг (явц 1-ийн оноогоор нэгийг нь нөхөж болно) | 30 |
 <div class="table-responsive" markdown="1">
+
+[Статистикийн хүснэгтүүд](https://www.dropbox.com/s/p5vafjhk0rg2tjf/tables.pdf?dl=0)
 
 | цаг | Сэдэв, лекцийн слайд, нэмж унших материал | Лекцийн видео | Семинар |
 |:--|:--|:--|:--|
