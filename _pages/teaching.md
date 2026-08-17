@@ -7,15 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<div class="courses">
-  {% for course in site.courses %}
-  <div class="card mt-3">
-    <div class="p-3">
-      <h5 class="card-title">
-        <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
-      </h5>
-      <p class="card-text">{{ course.description }}</p>
-    </div>
-  </div>
-  {% endfor %}
-</div>
+- [ECON202 Эконометрикийн үндэс](/teaching/econ202/)
+- [ECON205 Дунд түвшний эконометрик](/teaching/econ205/)
+- [ECON422 Хэрэглээний эконометрик](/teaching/econ422/)
+- [ECON704 Эконометрик](/teaching/econ704/)
