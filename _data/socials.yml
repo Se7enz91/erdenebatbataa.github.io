@@ -1,28 +1,4 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: tsors79@yahoo.com # your email address
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: d8GCw8UAAAAJ # your Google Scholar ID
-custom_social:
-  researchgate:
-    logo: https://www.researchgate.net/favicon.ico
-    title: ResearchGate
-    url: https://www.researchgate.net/profile/Erdenebat-Bataa
-  repec:
-    logo: https://ideas.repec.org/favicon.ico
-    title: IDEAS/RePEc
-    url: https://ideas.repec.org/f/pba666.html
-  youtube:
-    logo: https://www.youtube.com/favicon.ico
-    title: YouTube
-    url: https://www.youtube.com/c/Erdenebat
-  linkedin:
-    logo: https://www.linkedin.com/favicon.ico
-    title: LinkedIn
-    url: https://www.linkedin.com/in/erdenebat-bataa/
-  blog:
-    logo: https://www.blogger.com/favicon.ico
-    title: Economists' corner
-    url: https://tsors79.blogspot.com/
+cv_pdf: /assets/pdf/example_pdf.pdf
+email: tsors79@yahoo.com
+rss_icon: true
+scholar_userid: d8GCw8UAAAAJ
