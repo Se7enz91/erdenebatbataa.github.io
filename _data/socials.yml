@@ -3,18 +3,21 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: tsors79@yahoo.com # your email address
-# inspirehep_id: 1010907 # Inspire HEP author ID
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: d8GCw8UAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: hhttps://ideas.repec.org/favicon.ico # can be png, svg, jpg
-  title: IDEAS/RePEc
-  url: https://ideas.repec.org/f/pba666.html
-  logo: https://www.youtube.com/favicon.ico
-  title: YouTube
-  url: https://www.youtube.com/c/Erdenebat
-  logo: https://www.linkedin.com/favicon.ico
-  title: LinkedIn
-  url: https://www.linkedin.com/in/erdenebat-bataa/
+custom_social:
+  - logo: https://www.researchgate.net/favicon.ico
+    title: ResearchGate
+    url: https://www.researchgate.net/profile/Erdenebat-Bataa
+  - logo: https://ideas.repec.org/favicon.ico
+    title: IDEAS/RePEc
+    url: https://ideas.repec.org/f/pba666.html
+  - logo: https://www.youtube.com/favicon.ico
+    title: YouTube
+    url: https://www.youtube.com/c/Erdenebat
+  - logo: https://www.linkedin.com/favicon.ico
+    title: LinkedIn
+    url: https://www.linkedin.com/in/erdenebat-bataa/
+  - logo: https://www.blogger.com/favicon.ico
+    title: Economists' corner
+    url: https://tsors79.blogspot.com/
