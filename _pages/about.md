@@ -30,3 +30,6 @@ Previously, he held administrative, research and teaching positions at [Bangor U
 Erden holds a PhD in Economics from the University of Manchester, where he also did his ESRC Postdoctoral Fellowship. Among his publications is the [first time-series econometrics textbook in Mongolian](https://internom.mn/бараа/9789997814982-хугацаан-цуваан-эконометрик) and scholarly articles published in internationally recognized journals, such as The Review of Economics and Statistics and Oxford Bulletin of Economics and Statistics.
 
 He has been running "[Economists' corner](https://tsors79.blogspot.com)", a non-partisan blog on Mongolian economy, economic policy, society, and institutional reform within a broad historical and international context since 2009. He also runs a [YouTube channel](https://www.youtube.com/c/Erdenebat) on econometrics and economic issues relevant to Mongolia.
+Email is the most reliable way to reach me, and I aim to respond within a few days.
+
+Find me also on [ResearchGate](https://www.researchgate.net/profile/Erdenebat-Bataa), [IDEAS/RePEc](https://ideas.repec.org/f/pba666.html), [Google Scholar](https://scholar.google.com/citations?user=d8GCw8UAAAAJ), [LinkedIn](https://www.linkedin.com/in/erdenebat-bataa/), [YouTube](https://www.youtube.com/c/Erdenebat), and at [Economists' corner](https://tsors79.blogspot.com/).
